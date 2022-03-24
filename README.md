@@ -1,1 +1,1 @@
-# roboticafcfm2022
+# Auxiliar 1: Imagenes digitales y color segmentation. 
